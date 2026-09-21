@@ -6,7 +6,7 @@ def max_value(numbers):
     for num in numbers:
         if num > max_num:
             max_num = num
-    return 
+    return max_num
 
 #we try to make experiment
 
